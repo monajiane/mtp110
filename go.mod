@@ -3,7 +3,7 @@ module x-ui
 go 1.20
 
 require (
-	github.com/Workiva/go-datastructures v1.1.0
+	github.com/Workiva/go-datastructures v1.1.3
 	github.com/gin-contrib/sessions v0.0.4
 	github.com/gin-gonic/gin v1.9.1
 	github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1
